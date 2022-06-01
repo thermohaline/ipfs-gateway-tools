@@ -6,7 +6,7 @@ IPFS Gateway Tools
 
 This toolkit contains helper functions for working with IPFS gateway URLs and transforming them as desired.
 
-This package comes with a distributions for the browser and for NodeJS. Take care to ensure you are importing or requiring in the right version.
+Python version
 
 
 ## Browser Setup
